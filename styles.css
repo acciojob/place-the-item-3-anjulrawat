@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.holder{
+    display: flex;
+    justify-content: space-between;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    text-align: center;
+
+}
+.holder div{
+    background-color: blue;
+    margin: 10px;
+    width: 100px;
+}
